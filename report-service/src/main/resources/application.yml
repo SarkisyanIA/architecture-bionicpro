@@ -1,0 +1,21 @@
+server:
+  port: 8082
+
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8080/realms/reports-realm
+          jwk-set-uri: http://localhost:8080/realms/reports-realm/protocol/openid-connect/certs
+
+clickhouse:
+  host: clickhouse
+  port: 8123
+  database: default
+  user: default
+  password: ""
+
+logging:
+  level:
+    com.example: DEBUG

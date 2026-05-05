@@ -1,0 +1,22 @@
+customer_id,customer_name,email,phone,registration_date,customer_segment
+1,Иван Петров,ivan.petrov@example.com,+79001234567,2024-01-15,Premium
+2,Мария Сидорова,maria.sidorova@example.com,+79001234568,2024-01-20,Standard
+3,Алексей Иванов,alexey.ivanov@example.com,+79001234569,2024-02-01,Basic
+4,Елена Смирнова,elena.smirnova@example.com,+79001234570,2024-02-10,Premium
+5,Дмитрий Козлов,dmitry.kozlov@example.com,+79001234571,2024-02-15,Enterprise
+6,Анна Новикова,anna.novikova@example.com,+79001234572,2024-03-01,Standard
+7,Сергей Морозов,sergey.morozov@example.com,+79001234573,2024-03-10,Basic
+8,Ольга Волкова,olga.volkova@example.com,+79001234574,2024-03-15,Premium
+9,Андрей Павлов,andrey.pavlov@example.com,+79001234575,2024-04-01,Standard
+10,Татьяна Соколова,tatiana.sokolova@example.com,+79001234576,2024-04-10,Enterprise
+11,Николай Лебедев,nikolay.lebedev@example.com,+79001234577,2024-04-15,Basic
+12,Ирина Егорова,irina.egorova@example.com,+79001234578,2024-05-01,Premium
+13,Владимир Кузнецов,vladimir.kuznetsov@example.com,+79001234579,2024-05-10,Standard
+14,Светлана Федорова,svetlana.fedorova@example.com,+79001234580,2024-05-15,Basic
+15,Павел Михайлов,pavel.mikhailov@example.com,+79001234581,2024-06-01,Enterprise
+16,Наталья Алексеева,natalya.alekseeva@example.com,+79001234582,2024-06-10,Premium
+17,Михаил Тихонов,mikhail.tikhonov@example.com,+79001234583,2024-06-15,Standard
+18,Екатерина Орлова,ekaterina.orlova@example.com,+79001234584,2024-07-01,Basic
+19,Александр Семенов,alexander.semenov@example.com,+79001234585,2024-07-10,Premium
+20,Юлия Степанова,yulia.stepanova@example.com,+79001234586,2024-07-15,Standard
+21,user1,user1@example.com,+79001234586,2024-07-15,Standard
